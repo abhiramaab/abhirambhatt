@@ -112,5 +112,4 @@ RESTful backend application with:
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abhiramaab/abhiramaab/output/github-contribution-grid-snake.svg">
 </picture>
 
----
 
