@@ -114,16 +114,3 @@ RESTful backend application with:
 
 ---
 
-## Contact
-
-**Email**
-
-abhiram.b@icloud.com
-
-**GitHub**
-
-https://github.com/abhiramaab
-
-**LinkedIn**
-
-https://linkedin.com/in/abhirama
