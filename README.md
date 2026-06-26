@@ -1,68 +1,97 @@
-Hi, I’m Abhirama
+Abhirama
 
-Java Backend Developer focused on building secure and scalable backend applications using Java and Spring Boot. I have 4.5+ years of professional experience in eCommerce and logistics operations and am currently transitioning into backend software development.
+Java Backend Developer focused on building secure and scalable backend applications using Java and Spring Boot.
 
-About Me
+Currently building backend applications with Spring Boot while expanding my expertise in Microservices, Docker, CI/CD, and Kubernetes.
 
-* Building backend applications with Java and Spring Boot
-* Experience with Spring Security, JWT Authentication, JPA/Hibernate, and REST APIs
-* Working with MySQL and SQL
-* Deploying applications on AWS EC2
-* Currently learning Docker, Microservices, CI/CD, and Kubernetes
-* Pursuing a Bachelor of Computer Applications (University of Mysore)
+⸻
+
+About
+
+* Java Backend Development
+* Spring Boot & Spring Security
+* REST APIs
+* JWT Authentication
+* JPA/Hibernate
+* MySQL
+* AWS EC2 Deployment
+* Docker (Learning)
+* Microservices (Learning)
+* CI/CD (Learning)
+* Kubernetes (Learning)
+
+⸻
 
 Tech Stack
 
-Languages
+Category	Technologies
+Language	Java, SQL
+Backend	Spring Boot, Spring MVC, Spring Security, REST APIs, JPA/Hibernate
+Database	MySQL
+Cloud	AWS EC2
+Tools	Git, GitHub, Maven, Docker, Postman, Swagger/OpenAPI, DBeaver
 
-* Java
-* SQL
+⸻
 
-Backend
+Projects
 
-* Spring Boot
-* Spring MVC
-* Spring Security
-* REST APIs
-* JPA/Hibernate
+NeuroNote AI (In Progress)
+
+Spring Boot REST API that converts educational YouTube videos into AI-powered study material using Gemini API.
+
+Features
+
+* AI Summaries
+* Flashcards
+* Quiz Generation
 * JWT Authentication
+* User Management
 
-Database
-
-* MySQL
-
-Tools & Technologies
-
-* Git
-* GitHub
-* Maven
-* Docker
-* AWS EC2
-* Postman
-* Swagger/OpenAPI
-* DBeaver
-
-Featured Projects
-
-NeuroNote AI
-
-Spring Boot REST API that transforms educational YouTube videos into AI-powered study material. Integrates the Gemini API to generate summaries, notes, flashcards, and quizzes while securely managing user content using JWT Authentication.
+⸻
 
 RouteSphere
 
-RESTful logistics and fleet management backend built using Spring Boot. Includes customer, shipment, vehicle, driver, trip, invoice, fuel log, and maintenance management with JWT Authentication and role-based authorization.
+RESTful logistics and fleet management backend application.
 
-Live Demo: https://project.routesphere.abhiram.tech
+Modules
+
+* Customers
+* Shipments
+* Drivers
+* Vehicles
+* Trips
+* Invoices
+* Fuel Logs
+* Vehicle Maintenance
+
+Live Demo
+
+https://project.routesphere.abhiram.tech
+
+⸻
 
 Logistics & Shipment Tracking System
 
-Spring Boot backend for shipment creation, delivery tracking, and shipment history management. Implements JPA relationships, DTOs, validation, pagination, role-based access control, and MySQL integration.
+Spring Boot backend application for shipment creation, tracking, and delivery management.
 
-Live Demo: https://project.trackingsystem.abhiram.tech
+Live Demo
+
+https://project.trackingsystem.abhiram.tech
+
+⸻
 
 Ecommerce Backend System
 
-RESTful backend application featuring user authentication, product and category management, shopping cart functionality, order processing, and Swagger/OpenAPI documentation.
+RESTful backend application featuring:
+
+* JWT Authentication
+* Product Management
+* Category Management
+* Shopping Cart
+* Order Processing
+* Swagger/OpenAPI
+
+⸻
 
 Currently Learning
 
@@ -72,12 +101,22 @@ Currently Learning
 * CI/CD
 * Kubernetes
 
-GitHub Statistics
+⸻
+
+GitHub Stats
+
+⸻
 
 Contact
 
-Email: abhiram.b@icloud.com
+Email
 
-LinkedIn: https://www.linkedin.com/in/abhirama
+abhiram.b@icloud.com
 
-GitHub: https://github.com/abhiramaab
+LinkedIn
+
+https://linkedin.com/in/abhirama
+
+GitHub
+
+https://github.com/abhiramaab
