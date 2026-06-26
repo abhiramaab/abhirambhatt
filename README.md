@@ -104,11 +104,13 @@ RESTful backend application with:
 
 ---
 
-## GitHub Stats
+## Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiramaab&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramaab&layout=compact&theme=github_dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiramaab/abhiramaab/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiramaab/abhiramaab/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abhiramaab/abhiramaab/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
